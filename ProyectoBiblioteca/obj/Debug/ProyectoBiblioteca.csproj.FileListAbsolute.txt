@@ -1,0 +1,15 @@
+C:\Users\fireb\OneDrive\Desktop\code\CS-Forms\ProyectoBiblioteca\bin\Debug\LibraryDB.mdf
+C:\Users\fireb\OneDrive\Desktop\code\CS-Forms\ProyectoBiblioteca\bin\Debug\LibraryDB_log.ldf
+C:\Users\fireb\OneDrive\Desktop\code\CS-Forms\ProyectoBiblioteca\bin\Debug\ProyectoBiblioteca.exe.config
+C:\Users\fireb\OneDrive\Desktop\code\CS-Forms\ProyectoBiblioteca\bin\Debug\ProyectoBiblioteca.exe
+C:\Users\fireb\OneDrive\Desktop\code\CS-Forms\ProyectoBiblioteca\bin\Debug\ProyectoBiblioteca.pdb
+C:\Users\fireb\OneDrive\Desktop\code\CS-Forms\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.csproj.AssemblyReference.cache
+C:\Users\fireb\OneDrive\Desktop\code\CS-Forms\ProyectoBiblioteca\obj\Debug\LibraryReservationSystem.BooksForm.resources
+C:\Users\fireb\OneDrive\Desktop\code\CS-Forms\ProyectoBiblioteca\obj\Debug\LibraryReservationSystem.MainForm.resources
+C:\Users\fireb\OneDrive\Desktop\code\CS-Forms\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.Properties.Resources.resources
+C:\Users\fireb\OneDrive\Desktop\code\CS-Forms\ProyectoBiblioteca\obj\Debug\LibraryReservationSystem.ReservationsForm.resources
+C:\Users\fireb\OneDrive\Desktop\code\CS-Forms\ProyectoBiblioteca\obj\Debug\LibraryReservationSystem.UsersForm.resources
+C:\Users\fireb\OneDrive\Desktop\code\CS-Forms\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.csproj.GenerateResource.cache
+C:\Users\fireb\OneDrive\Desktop\code\CS-Forms\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\fireb\OneDrive\Desktop\code\CS-Forms\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.exe
+C:\Users\fireb\OneDrive\Desktop\code\CS-Forms\ProyectoBiblioteca\obj\Debug\ProyectoBiblioteca.pdb
